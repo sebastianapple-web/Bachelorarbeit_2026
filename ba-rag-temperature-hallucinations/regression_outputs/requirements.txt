@@ -1,0 +1,10 @@
+numpy
+pandas
+pyarrow
+datasets
+tqdm
+scikit-learn
+statsmodels
+sentence-transformers
+faiss-cpu
+python-dotenv
