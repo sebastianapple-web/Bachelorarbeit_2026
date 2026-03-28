@@ -1,0 +1,500 @@
+{"id": "q00001", "question": "where did the vietnam war mainly take place", "gold_answers": ["Cambodia", "Vietnam", "Laos"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00002", "question": "when was krakauer considered a success as a writer", "gold_answers": ["November 1983"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00003", "question": "who played mrs garrett's son on facts of life", "gold_answers": ["Tom Fitzsimmons", "Joel Brooks"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00004", "question": "when is the men's ice hockey winter olympics 2018", "gold_answers": ["between 14 and 25 February"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00005", "question": "according to the bmw of north america v. gore case excessive punitive damages violate what", "gold_answers": ["the Due Process clause"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00006", "question": "who made the film society of the spectacle", "gold_answers": ["Guy Debord"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00007", "question": "when did the queen became the queen of the uk", "gold_answers": ["6 February 1952"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00008", "question": "how many times does a hummingbird heartbeat per minute", "gold_answers": ["1,260 beats per minute"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00009", "question": "when were each of the harry potter books released", "gold_answers": ["2007", "1997", "2005", "1998", "2000", "1999", "2003"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00010", "question": "when did the first papa john's open", "gold_answers": ["1984"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00011", "question": "who plays kyle wren in star wars 7", "gold_answers": ["Adam Driver"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00012", "question": "who did the song play that funky music white boy", "gold_answers": ["Wild Cherry"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00013", "question": "what's the zip code for sioux falls south dakota", "gold_answers": ["57117–57118", "57192–57198", "57101", "57103–57110", "57188–57189"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00014", "question": "when did the packers stop playing in milwaukee", "gold_answers": ["1995"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00015", "question": "when did lionel messi score his first goal", "gold_answers": ["six years old"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00016", "question": "who wins season 12 of america's next top model", "gold_answers": ["Teyona Anderson"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00017", "question": "what year did the first love island start", "gold_answers": ["summer of 2005"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00018", "question": "what time does the ap poll come out on sunday", "gold_answers": ["2pm Eastern time"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00019", "question": "who won coach trip road to ibiza 2016", "gold_answers": ["Holmest & Lauryn"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00020", "question": "when is a thousand splendid suns movie coming out", "gold_answers": ["February 1, 2017"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00021", "question": "who won the olympics in make it or break it", "gold_answers": ["Jordan", "Kaylie", "Payson", "Lauren"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00022", "question": "who plays miranda bailey in grey's anatomy", "gold_answers": ["Chandra Danette Wilson"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00023", "question": "how many times have arsenal won the pl", "gold_answers": ["13"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00024", "question": "when did the battle of waterloo start and end", "gold_answers": ["18 June 1815"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00025", "question": "what does the hmr stand for in .17hmr", "gold_answers": ["Hornady Magnum Rimfire"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00026", "question": "who does the care standards act 2000 protect", "gold_answers": ["vulnerable adults", "children"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00027", "question": "when was fathers day made a national holiday", "gold_answers": ["1972"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00028", "question": "who sings the song out of my head", "gold_answers": ["Fastball"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00029", "question": "who wrote the theme song to hawaii 5-0", "gold_answers": ["Morton Stevens"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00030", "question": "when did south korea separate from north korea", "gold_answers": ["1945"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00031", "question": "what type of basketball is used in the nba", "gold_answers": ["Spalding"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00032", "question": "who played penny's mother on good times", "gold_answers": ["Ja'net Dubois"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00033", "question": "who plays treasure in how i met your mother", "gold_answers": ["Erin Cardillo"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00034", "question": "how many superbowls did the green bay packers win", "gold_answers": ["2"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00035", "question": "who played seven of nine on star trek voyager", "gold_answers": ["Jeri Lynn Ryan"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00036", "question": "how many players does the nba draft each year", "gold_answers": ["Sixty"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00037", "question": "who plays the voice of roberta on the cleveland show", "gold_answers": ["Reagan Gomez-Preston"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00038", "question": "where did the bombing of pearl harbor happen", "gold_answers": ["Pearl Harbor, Hawaii Territory"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00039", "question": "when did ohio state get a football team", "gold_answers": ["1890"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00040", "question": "who has had a quadruple double in the nba", "gold_answers": ["none"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00041", "question": "season 5 episode 25 release date steven universe", "gold_answers": ["2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00042", "question": "when did pip agree to meet the convict", "gold_answers": ["seven"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00043", "question": "where does the new karate kid take place", "gold_answers": ["Beijing"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00044", "question": "what is the largest city in central america", "gold_answers": ["Guatemala City"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00045", "question": "when was maryland drinking age changed to 21", "gold_answers": ["1982"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00046", "question": "who played the president in iron man 3", "gold_answers": ["William Sadler"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00047", "question": "who sings the cold never bothered me anyway", "gold_answers": ["Idina Menzel", "Demi Lovato"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00048", "question": "hills like white elephants what kind of operation are the characters discussing", "gold_answers": ["abortion"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00049", "question": "names of the spanish speaking countries in the caribbean", "gold_answers": ["Dominican Republic", "Puerto Rico", "Parts of Trinidad & Tobago", "Cuba"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00050", "question": "when did nigeria adopt the presidential system of government", "gold_answers": ["1963"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00051", "question": "nadal and federer are names related to which sport", "gold_answers": ["Tennis"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00052", "question": "when was the treaty of brest litovsk signed", "gold_answers": ["3 March 1918"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00053", "question": "which school has the most ncaa men's basketball championships", "gold_answers": ["UCLA"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00054", "question": "who won s8 of rupaul's drag race", "gold_answers": ["Bob the Drag Queen"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00055", "question": "when did all eyez on me come out album", "gold_answers": ["February 13, 1996"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00056", "question": "who is woody from toy story based on", "gold_answers": ["former Disney animator", "Tone Thyne"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00057", "question": "the place where the peasants struggled against the indigo plantation system", "gold_answers": ["Bengal"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00058", "question": "who was playing during the las vegas shooting", "gold_answers": ["Jason Aldean"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00059", "question": "who does the voice of nemo's dad in finding dory", "gold_answers": ["Albert Brooks"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00060", "question": "who played the lone ranger on the tv series", "gold_answers": ["Clayton Moore"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00061", "question": "muslim population in india according to 2011 census", "gold_answers": ["172.2 million"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00062", "question": "where is indian head rock on smith lake", "gold_answers": ["south shoreline of Smith lake"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00063", "question": "who wrote the book around the world in 80 days", "gold_answers": ["Jules Verne"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00064", "question": "when did they quit making silver half dollars", "gold_answers": ["1965"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00065", "question": "who stirred up a slave rebellion in virginia", "gold_answers": ["Nat Turner"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00066", "question": "players to average triple double in a season", "gold_answers": ["Oscar Robertson", "Russell Westbrook"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00067", "question": "where did the last name paniagua come from", "gold_answers": ["Spanish"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00068", "question": "who does matthew broderick play in bee movie", "gold_answers": ["Adam Flayman"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00069", "question": "when does the next season 3 of rick and morty start", "gold_answers": ["April 1, 2017"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00070", "question": "who has been appointed as the new chancellor of nalanda university", "gold_answers": ["Dr. Vijay Pandurang Bhatkar"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00071", "question": "who was involved in the valentine's day massacre", "gold_answers": ["Irish American gang"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00072", "question": "how many grammy nominations did the starland vocal band earn in 1976", "gold_answers": ["four"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00073", "question": "who played michael myers rob zombie's halloween 2", "gold_answers": ["Tyler Mane"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00074", "question": "who piloted the first commercial civil aviation flight that took place in india", "gold_answers": ["Henri Pequet"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00075", "question": "who is the actress playing mac on young and the restless", "gold_answers": ["Kelly Kruger"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00076", "question": "who sang knockin on heaven's door originally", "gold_answers": ["Bob Dylan"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00077", "question": "who came second in the x factor in 2009", "gold_answers": ["Olly Murs"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00078", "question": "6. what is the name of the danish goldsmith who founded the pandora jewelry company", "gold_answers": ["Per Enevoldsen"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00079", "question": "who was known for having a sign on his desk that read the buck stops here", "gold_answers": ["Harry S. Truman"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00080", "question": "who has the most assist in nba history", "gold_answers": ["John Stockton"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00081", "question": "battle of shiloh where did it take place", "gold_answers": ["Pittsburg Landing", "southwestern Tennessee"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00082", "question": "where does the song london bridge is falling down come from", "gold_answers": ["a traditional English nursery rhyme"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00083", "question": "what are all of the american horror story seasons", "gold_answers": ["Roanoke", "Murder House", "Asylum", "Freak Show", "Cult", "Hotel", "Coven"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00084", "question": "when did mini me died from austin powers", "gold_answers": ["April 21, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00085", "question": "is bay of bengal a sea or ocean", "gold_answers": ["Ocean"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00086", "question": "when did my life as a teenage robot end", "gold_answers": ["the ratings"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00087", "question": "when did come dine with me first start", "gold_answers": ["10 January 2005"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00088", "question": "who was the first to sing my way", "gold_answers": ["Claude François"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00089", "question": "when was the last time the us had a military draft", "gold_answers": ["1973"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00090", "question": "what is the common name of dihydrogen monoxide", "gold_answers": ["water"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00091", "question": "what state contains the geographic center of north america", "gold_answers": ["Kansas"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00092", "question": "what is the latest version on mac os", "gold_answers": ["macOS High Sierra"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00093", "question": "pirates of the caribbean cast will turner's dad", "gold_answers": ["Stellan Skarsgård"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00094", "question": "highest number of team goals in world cup", "gold_answers": ["229"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00095", "question": "who is piper from orange is the new black married to", "gold_answers": ["Larry Smith"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00096", "question": "where did the movie 10000 bc take place", "gold_answers": ["in the Urals"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00097", "question": "when did the beatles perform at shea stadium", "gold_answers": ["15 August 1965"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00098", "question": "where was he's just not that into you filmed", "gold_answers": ["Los Angeles", "Baltimore, Maryland"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00099", "question": "who was the leader of australia during ww2", "gold_answers": ["Prime Minister Robert Menzies"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00100", "question": "who plays derek's sister nancy on grey's anatomy", "gold_answers": ["Davidtz"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00101", "question": "who played rum tum tugger in the movie cats", "gold_answers": ["John Partridge"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00102", "question": "how many states play in the mega millions lottery", "gold_answers": ["44"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00103", "question": "when did america switch from tea to coffee", "gold_answers": ["1773"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00104", "question": "who has won the most british open golf titles", "gold_answers": ["Harry Vardon"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00105", "question": "what is the meaning of hassan in english", "gold_answers": ["'handsome'", "'benefactor'", "'good'"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00106", "question": "what is the age limit for ias for sc", "gold_answers": ["37"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00107", "question": "who is the voice of scar on lion king", "gold_answers": ["John Vickery", "Jeremy Irons", "Jim Cummings"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00108", "question": "when is the last time mt fuji erupted", "gold_answers": ["1707–1708"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00109", "question": "who plays harry in the amazing spider man 2", "gold_answers": ["Dane William DeHaan"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00110", "question": "when was the night begins to shine created", "gold_answers": ["2005"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00111", "question": "who played spock's dad in star trek", "gold_answers": ["Mark Lenard"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00112", "question": "who plays mr rosso in freaks and geeks", "gold_answers": ["David (Gruber) Allen"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00113", "question": "how many keys are on microsoft windows standard keyboard", "gold_answers": ["104"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00114", "question": "the necessary and proper clause was articulated by which supreme court case", "gold_answers": ["McCulloch v. Maryland"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00115", "question": "when does cristina yang leave grey's anatomy", "gold_answers": ["after season 10"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00116", "question": "who plays billy in anne with an e", "gold_answers": ["Christian Martyn"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00117", "question": "when does the govenor die in the walking dead", "gold_answers": ["Too Far Gone"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00118", "question": "who was the first king to start building the temple of karnak", "gold_answers": ["Senusret I"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00119", "question": "what are the masks called in crash bandicoot", "gold_answers": ["Aku Aku"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00120", "question": "who played roscoe in dukes of hazzard movie", "gold_answers": ["M. C. Gainey"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00121", "question": "who originally sang don't think twice it's alright", "gold_answers": ["Bob Dylan"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00122", "question": "who is allowed to print money in the us", "gold_answers": ["the US Treasury Department"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00123", "question": "who compiled the first list of all known elements", "gold_answers": ["English chemist John Newlands"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00124", "question": "who acted as snake eyes in gi joe", "gold_answers": ["Raymond \"Ray\" Park"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00125", "question": "when was i can only imagine song first released", "gold_answers": ["1999"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00126", "question": "which country has the highest rate of per capita energy use", "gold_answers": ["Iceland"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00127", "question": "what is the mexican day of the dead called", "gold_answers": ["Día de Muertos"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00128", "question": "who is bud fox and what is his occupation", "gold_answers": ["young stockbroker"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00129", "question": "who does voice of meg on family guy", "gold_answers": ["Lacey Chabert", "Mila Kunis", "Tara Strong"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00130", "question": "where was the movie bullet for a badman filmed", "gold_answers": ["Zion National Park"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00131", "question": "who sings with kenny chesney when the sun goes down", "gold_answers": ["Uncle Kracker."], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00132", "question": "what is an example of an applied science", "gold_answers": ["inventions", "technology"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00133", "question": "when did the show big brother first air", "gold_answers": ["on July 5, 2000"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00134", "question": "who played spock's mother in the original star trek series", "gold_answers": ["Jane Waddington Wyatt"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00135", "question": "when did all star by smash mouth come out", "gold_answers": ["May 4, 1999"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00136", "question": "when was the last time texas was a democratic state", "gold_answers": ["the mid-1990s"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00137", "question": "when did seat belts become mandatory to wear", "gold_answers": ["January 1, 1968"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00138", "question": "what is the genre of the sign of the beaver", "gold_answers": ["children's historical novel"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00139", "question": "who plays supergirl's mom on the tv series", "gold_answers": ["Laura Benanti"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00140", "question": "where is the civil war in turkey located", "gold_answers": ["Eastern and Southeastern Turkey"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00141", "question": "who plays gumball on amazing world of gumball", "gold_answers": ["Logan Grove", "Jacob Hopkins"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00142", "question": "won the 73rd academy award for best movie", "gold_answers": ["Gladiator"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00143", "question": "who has the longest streak of ncaa tournament appearances", "gold_answers": ["Kansas"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00144", "question": "what is the largest borough in alaska by population", "gold_answers": ["Anchorage"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00145", "question": "where does assassin's creed 3 take place", "gold_answers": ["21st century"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00146", "question": "what is the role of india in g20", "gold_answers": ["global economic governance"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00147", "question": "who has defined function of management as posdcorb", "gold_answers": ["Luther Gulick"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00148", "question": "when did the plane hit the 14th street bridge", "gold_answers": ["January 13, 1982"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00149", "question": "when did alaska become part of the united states of america", "gold_answers": ["January 3, 1959"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00150", "question": "when does episode 1 season 3 of riverdale come out", "gold_answers": ["October 10, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00151", "question": "how many chapters in sherlock holmes devils daughter", "gold_answers": ["eighth"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00152", "question": "who was the president during the great depresion", "gold_answers": ["Herbert Hoover", "Franklin Delano Roosevelt"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00153", "question": "when was the king james version of the bible first printed", "gold_answers": ["1611"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00154", "question": "what shape is the standard stop sign according to the highway code", "gold_answers": ["octagon"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00155", "question": "voice of darth vader in empire strikes back", "gold_answers": ["James Earl Jones"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00156", "question": "who sings the song you dropped the bomb on me", "gold_answers": ["The Gap Band,"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00157", "question": "what happened to chucky's mom in rugrats", "gold_answers": ["died of a terminal illness"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00158", "question": "who did stephen curry play for in college", "gold_answers": ["Davidson"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00159", "question": "who played uncle jesse on dukes of hazzard", "gold_answers": ["Denver Dell Pyle"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00160", "question": "how many countries are a part of the united nations", "gold_answers": ["193"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00161", "question": "the iliad takes place during which year of the trojan war", "gold_answers": ["the final year"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00162", "question": "what is sherlock holmes known as in the stories", "gold_answers": ["a \"consulting detective\""], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00163", "question": "who introduced the swedish nightingale jenny lind to america", "gold_answers": ["P. T. Barnum"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00164", "question": "who is the mysterious man in into the woods", "gold_answers": ["the Baker's father"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00165", "question": "what was the purpose of the wall of jericho", "gold_answers": ["defensive or flood protection"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00166", "question": "name the famous monument in delhi made of red sandstone", "gold_answers": ["Red Fort"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00167", "question": "who sings the song i pray for you", "gold_answers": ["American singer Jaron Lowenstein"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00168", "question": "who set up a 5 year plan for the operation of the soviet union", "gold_answers": ["Joseph Stalin"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00169", "question": "when did the charity shield become the community shield", "gold_answers": ["2002"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00170", "question": "burn notice when does fiona get out of prison", "gold_answers": ["Shock Wave"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00171", "question": "when did the red hot chili peppers start", "gold_answers": ["1983"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00172", "question": "who was involved in the creation of the canadian food guide", "gold_answers": ["Health Canada"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00173", "question": "how many medals did canada win at the vancouver olympics", "gold_answers": ["26"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00174", "question": "who played mr. furley on three's company", "gold_answers": ["Don Knotts"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00175", "question": "when is shameless season 8 episode 3 coming out", "gold_answers": ["November 19, 2017"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00176", "question": "who produced coldplay's album viva la vida", "gold_answers": ["Rik Simpson", "Markus Dravs", "Jon Hopkins", "Brian Eno"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00177", "question": "who plays harry on sex and the city", "gold_answers": ["Evan Handler"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00178", "question": "when did donkey kong country returns come out", "gold_answers": ["November 2010"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00179", "question": "when did the beatles became popular in the us", "gold_answers": ["February 1964"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00180", "question": "who is the present mhrd minister of india", "gold_answers": ["Prakash Javadekar"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00181", "question": "who has the best record in the nfl football league", "gold_answers": ["Dallas Cowboys"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00182", "question": "who established the first school of social work in 1936", "gold_answers": ["J. R. D. Tata"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00183", "question": "who voiced count dooku in the clone wars", "gold_answers": ["Corey Burton"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00184", "question": "how much did pearl harbor movie cost to make", "gold_answers": ["$140 million"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00185", "question": "where did priests live in the 14th century", "gold_answers": ["clergy house"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00186", "question": "when did the first kingdom hearts come out", "gold_answers": ["March 28, 2002"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00187", "question": "who played zuzu in it's a wonderful life", "gold_answers": ["Karolyn Grimes"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00188", "question": "when was ama granted a university status by the commission of higher education", "gold_answers": ["20 August 2001"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00189", "question": "what ground will the final of the 2011 world cup be played on", "gold_answers": ["Eden Park, Auckland"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00190", "question": "when does grey's anatomy season 14 episode 20 air", "gold_answers": ["April 19, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00191", "question": "who is the drummer for the dave matthews band", "gold_answers": ["Carter Anthony Beauford"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00192", "question": "when did construction commenced of st peter basilica", "gold_answers": ["between 319 and 333 AD"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00193", "question": "who sings the song let's get it on", "gold_answers": ["Marvin Gaye"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00194", "question": "was one of the first to suggest that the mind can cause physical ailments", "gold_answers": ["René Descartes"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00195", "question": "which type of team is made up of employees from different departments within a company", "gold_answers": ["cross-functional team"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00196", "question": "who won last year's men's wimbledon final", "gold_answers": ["Roger Federer"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00197", "question": "where did the atomic bomb drop on hiroshima", "gold_answers": ["directly over Shima Surgical Clinic"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00198", "question": "when did the first wolverine movie come out", "gold_answers": ["2009"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00199", "question": "who led the mission to open up trade in japan", "gold_answers": ["Commodore Matthew Calbraith Perry"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00200", "question": "when did the star spangled banner became the anthem", "gold_answers": ["March 3, 1931"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00201", "question": "where are fenestrated capillaries most likely to be found", "gold_answers": ["intestines", "glomeruli of the kidney", "pancreas", "endocrine glands"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00202", "question": "what is the majority political party in the senate now", "gold_answers": ["Republicans"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00203", "question": "who owns the aquarius casino in laughlin nv", "gold_answers": ["Golden Entertainment"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00204", "question": "who played ward cleaver on leave it to beaver", "gold_answers": ["Eugene Hugh Beaumont"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00205", "question": "when was the first 50 shades of grey book released", "gold_answers": ["2011"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00206", "question": "who sang the original once upon a dream", "gold_answers": ["Mary Costa and Bill Shirley"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00207", "question": "who is sara harvey in pretty little liars", "gold_answers": ["Dre Davis"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00208", "question": "when does phoebe get the power of levitation", "gold_answers": ["the start of season three"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00209", "question": "who does vanessa's voice in phineas and ferb", "gold_answers": ["Olivia Rose Olson"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00210", "question": "who sang phantom of the opera for the movie", "gold_answers": ["Margaret Preece"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00211", "question": "who was the last us president born in the 19th century", "gold_answers": ["Dwight D. Eisenhower"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00212", "question": "who played king robert in game of thrones", "gold_answers": ["Mark Ian Addy"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00213", "question": "who wrote i'm happy just to dance with you", "gold_answers": ["Paul McCartney", "John Lennon"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00214", "question": "when did disney alice in wonderland come out", "gold_answers": ["1951"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00215", "question": "bahubali 2 box office collection in india first day", "gold_answers": ["₹1.52 billion"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00216", "question": "what kind of beer is blue moon considered", "gold_answers": ["Belgian-style witbier"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00217", "question": "total number of pti seats in national assembly", "gold_answers": ["158"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00218", "question": "when did the united states gain independence from great britain", "gold_answers": ["In early 1782"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00219", "question": "who owns a car when it is leased", "gold_answers": ["a vehicle the seller", "manufacturing corporation"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00220", "question": "actor who played gavin in gavin and stacey", "gold_answers": ["Mathew Frazer Horne"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00221", "question": "who is on the brad paisley weekend warrior tour", "gold_answers": ["Chase Bryant", "Lindsay Ell", "Dustin Lynch"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00222", "question": "who supervised elections in the south during reconstruction", "gold_answers": ["Andrew Johnson"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00223", "question": "who determined that light waves behave as quanta", "gold_answers": ["Albert Einstein"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00224", "question": "who does the voice of hans in frozen", "gold_answers": ["Santino Fontana"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00225", "question": "who has more super bowl wins afc or nfc", "gold_answers": ["NFC"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00226", "question": "who plays president lincoln in the movie lincoln", "gold_answers": ["Daniel Day-Lewis"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00227", "question": "where is the people's republic of china located", "gold_answers": ["East Asia"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00228", "question": "who won the women's ncaa 2018 championship", "gold_answers": ["Notre Dame Fighting Irish"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00229", "question": "when did the working income tax benefit start", "gold_answers": ["2007"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00230", "question": "when will the worlds population reach 8 billion", "gold_answers": ["2050"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00231", "question": "who plays kelly from saved by the bell", "gold_answers": ["Tiffani Amber Thiessen"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00232", "question": "who has the most gold medals in gymnastics", "gold_answers": ["Larisa Latynina"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00233", "question": "sa re ga ma pa little champs 2017 all judges name", "gold_answers": ["Himesh Reshammiya", "Neha Kakkar", "Javed Ali"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00234", "question": "stuck in the middle theme song who sings", "gold_answers": ["Grace Potter"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00235", "question": "who created the periodic table of the elements", "gold_answers": ["Dmitri Mendeleev"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00236", "question": "fly me to the moon who wrote it", "gold_answers": ["Bart Howard"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00237", "question": "when does metal gear solid 1 take place", "gold_answers": ["2005"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00238", "question": "who came up with the triple bottom line", "gold_answers": ["John Elkington"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00239", "question": "who played biff in back to the future", "gold_answers": ["Thomas Francis Wilson Jr."], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00240", "question": "when did the ipad pro 12.9 inch come out", "gold_answers": ["November 11, 2015"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00241", "question": "who played the baby in meet the fockers", "gold_answers": ["Spencer and Bradley Pickren"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00242", "question": "what year was the great fire of rome", "gold_answers": ["AD 64"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00243", "question": "when was the last time the buffalo sabres were in the playoffs", "gold_answers": ["2010–11"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00244", "question": "when was the voyager of the seas refurbished", "gold_answers": ["October and November 2014"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00245", "question": "who sings the last song on hotel transylvania", "gold_answers": ["Bobby Pickett"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00246", "question": "who was the first person to win americas got talent", "gold_answers": ["Bianca Ryan"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00247", "question": "who played david on one day at a time", "gold_answers": ["Richard Masur"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00248", "question": "what is the max contribution for roth 401k", "gold_answers": ["$5,500 per year"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00249", "question": "when is father's day celebrated in uk", "gold_answers": ["Third Sunday in June"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00250", "question": "a tributary flowing into the mississippi from the east is the", "gold_answers": ["Ohio River"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00251", "question": "where do the philadelphia eagles play their home games", "gold_answers": ["Lincoln Financial Field"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00252", "question": "who came first barry allen or wally west", "gold_answers": ["Barry Allen"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00253", "question": "branch of science that involves the classification of living things", "gold_answers": ["Biology"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00254", "question": "when is the next new episode of gold rush", "gold_answers": ["March 9, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00255", "question": "who plays the mom in my big fat greek wedding", "gold_answers": ["Lainie Kazan"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00256", "question": "when did the last ncaa football game come out", "gold_answers": ["July 9, 2013"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00257", "question": "what was the us response to iraq's invasion of kuwait", "gold_answers": ["military intervention"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00258", "question": "when did the first hd tv come out", "gold_answers": ["1998"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00259", "question": "who won between manchester united and man city", "gold_answers": ["Manchester United"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00260", "question": "what team was lebron james on before lakers", "gold_answers": ["Cleveland Cavaliers"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00261", "question": "who needed the heart in the wizard of oz", "gold_answers": ["Tin Woodman"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00262", "question": "who wrote the song don want to miss a thing", "gold_answers": ["Diane Warren"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00263", "question": "when did the first mcdonald's open in australia", "gold_answers": ["1971"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00264", "question": "who plays soso in orange is the new black", "gold_answers": ["Kimiko Elizabeth Glenn"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00265", "question": "who wrote song to make you feel my love", "gold_answers": ["Bob Dylan"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00266", "question": "what powered the original locomotives on mount washington cog railway", "gold_answers": ["steam engines"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00267", "question": "what is the border name between india and pakistan", "gold_answers": ["International Border (IB)"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00268", "question": "who plays grace in the good witch's wonder", "gold_answers": ["Lily-Fay Mowbray"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00269", "question": "who sings one fine day in the movie", "gold_answers": ["The Chiffons'"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00270", "question": "who was the first emcee of wheel of fortune", "gold_answers": ["Chuck Woolery"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00271", "question": "when did congress expand the voting rights act to cover language minorities", "gold_answers": ["1975"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00272", "question": "avengers assemble season 4 episode 21 air date", "gold_answers": ["March 4, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00273", "question": "who plays tripp on days of our life", "gold_answers": ["Lucas Adams"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00274", "question": "which jonas brother had a reality tv show", "gold_answers": ["Kevin"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00275", "question": "when does tony romo a football life air", "gold_answers": ["September 28, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00276", "question": "which city was the capital of the former soviet union and is today the capital of russia", "gold_answers": ["Moscow"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00277", "question": "who is the girl in janie's got a gun", "gold_answers": ["Kristin Dattilo"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00278", "question": "who did the government of western australia vest the ownership of perth arena to", "gold_answers": ["VenuesWest"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00279", "question": "san diego trolley how late does it run", "gold_answers": ["midnight"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00280", "question": "when did the battle of britain begin and end", "gold_answers": ["31 October 1940", "10 July"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00281", "question": "what was the original color of the golden gate bridge", "gold_answers": ["Orange"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00282", "question": "what does the name tracey mean in english", "gold_answers": ["\"higher\"", "\"fighter\"", "\"superior\"", "\"more powerful\"", "\"war-like\""], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00283", "question": "how many language appear on the indian rupee note", "gold_answers": ["17"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00284", "question": "in the united kingdom who picks the prime minister", "gold_answers": ["Monarch of the United Kingdom"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00285", "question": "when does episode 72 of jane the virgin come out", "gold_answers": ["January 26, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00286", "question": "where is wellesley college in mona lisa smile", "gold_answers": ["in Massachusetts"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00287", "question": "the first kannada movie to celebrate silver jubilee was", "gold_answers": ["School Master"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00288", "question": "where does the columbia river meet the snake river", "gold_answers": ["Burbank, Washington"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00289", "question": "who wrote i just fall in love again", "gold_answers": ["Larry Herbstritt", "Gloria Sklerov", "Harry Lloyd", "Steve Dorff"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00290", "question": "when did the chinese exclusion act of 1882 end", "gold_answers": ["December 17, 1943"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00291", "question": "when was the last year the ford excursion was made", "gold_answers": ["2005"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00292", "question": "hiw many episodes are in prison break season 5", "gold_answers": ["9"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00293", "question": "what is the population of new albany ohio", "gold_answers": ["8,507"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00294", "question": "who played mother nature in santa claus 2", "gold_answers": ["Aisha Tyler"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00295", "question": "when was the last time the saints won a superbowl", "gold_answers": ["The 2009 season"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00296", "question": "when was the song dont matter to me made", "gold_answers": ["2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00297", "question": "which war during the mid 1800s weakened the economy of the ottoman empire", "gold_answers": ["Russo-Turkish War"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00298", "question": "who is catalina on my name is earl", "gold_answers": ["Nadine E. Velazquez"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00299", "question": "when did the church of england allow female bishops", "gold_answers": ["2013"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00300", "question": "name some components of the central nervous system (cns)", "gold_answers": ["spinal cord", "brain"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00301", "question": "who are the white guys in matrix reloaded", "gold_answers": ["The Twins"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00302", "question": "when did fathers day become an official holiday", "gold_answers": ["1972"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00303", "question": "who sings i just want to use your love", "gold_answers": ["the Outfield"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00304", "question": "who is working for a in pretty little liars", "gold_answers": ["Melissa"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00305", "question": "how many amish live in the united states", "gold_answers": ["318,400"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00306", "question": "who sings the power rangers ninja storm theme song", "gold_answers": ["Noam Kaniel"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00307", "question": "which type of solution is one with a ph of 3", "gold_answers": ["acidic"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00308", "question": "how many seats does a cessna 172 have", "gold_answers": ["four"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00309", "question": "when does season 13 criminal minds come out on dvd", "gold_answers": ["August 28, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00310", "question": "who gave the idea of constituent assembly for india in 1934", "gold_answers": ["M. N. Roy"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00311", "question": "who abolished the dual government system in bengal", "gold_answers": ["British East India company"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00312", "question": "what side was hecuba on in the trojan war", "gold_answers": ["Trojan"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00313", "question": "where was the hunt for the wilderpeople filmed", "gold_answers": ["the Central Plateau", "the Waitakere Ranges"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00314", "question": "who wins americas next top model season 4", "gold_answers": ["Naima Mora"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00315", "question": "who is the god of fire in norse mythology", "gold_answers": ["Logi"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00316", "question": "who is considered to be the most significant r&b performer during the 1950s", "gold_answers": ["Little Richard"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00317", "question": "when did the american civil rights movement end", "gold_answers": ["1968"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00318", "question": "who sings the song i still get jealous", "gold_answers": ["American recording artist Nick Jonas"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00319", "question": "who does the white house director of communications report to", "gold_answers": ["White House Chief of Staff"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00320", "question": "food allergies are autoimmune responses to which specific type of nutrient", "gold_answers": ["protein"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00321", "question": "who does syndrome's voice in the incredibles", "gold_answers": ["Jason Lee"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00322", "question": "how many episodes in season 2 of wynonna earp", "gold_answers": ["12"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00323", "question": "who wrote the song i'm on fire", "gold_answers": ["American rock artist Bruce Springsteen"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00324", "question": "what town in texas is sheldon cooper from", "gold_answers": ["Galveston"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00325", "question": "when is the new show charmed coming out", "gold_answers": ["October 14, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00326", "question": "who is the san francisco 49ers starting quarterback", "gold_answers": ["Brian Hoyer", "C.J. Beathard"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00327", "question": "who won season 24 dancing with the stars", "gold_answers": ["Rashad Jennings", "Emma Slater"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00328", "question": "which deltaic complex in north america originated as a result of the taconic (acadian) orogeny", "gold_answers": ["Catskill Delta"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00329", "question": "what is the name of china's currency", "gold_answers": ["renminbi"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00330", "question": "when does a new season of are you the one start", "gold_answers": ["2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00331", "question": "when did the nfl switch from leather helmets", "gold_answers": ["by 1950"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00332", "question": "who won the popular vote in the election of 1824 who was elected president", "gold_answers": ["Jackson"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00333", "question": "where did the uranium on earth come from", "gold_answers": ["supernovae"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00334", "question": "how many cards in a run in rummy", "gold_answers": ["three or more cards"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00335", "question": "the monetary amount an appraiser says the real property is worth is the", "gold_answers": ["appraised value"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00336", "question": "where did hurricane agnes make landfall in 1972", "gold_answers": ["near Panama City, Florida"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00337", "question": "who is the president of chile right now", "gold_answers": ["Michelle Bachelet"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00338", "question": "where do you hear crackles in the lungs", "gold_answers": ["the base of the lung"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00339", "question": "which side of the road do they drive in russia", "gold_answers": ["right"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00340", "question": "when did indiana became a right to work state", "gold_answers": ["2012"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00341", "question": "who is pretending to be a in pretty little liars", "gold_answers": ["Shana"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00342", "question": "who started the white out in college football", "gold_answers": ["Penn State"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00343", "question": "who won the civil war yankees or confederates", "gold_answers": ["The Union"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00344", "question": "what type of printer has a nozzle like printhead", "gold_answers": ["inkjet"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00345", "question": "when did laverne and shirley move to california", "gold_answers": ["the sixth season in 1980"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00346", "question": "when was the ar 15 released to the public", "gold_answers": ["1964"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00347", "question": "who helps odysseus during the slaughter of the suitors in book xxii", "gold_answers": ["Eumaeus", "Philoetius", "Telemachus"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00348", "question": "when did the luge start in the olympics", "gold_answers": ["1964"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00349", "question": "when did sonic the hedgehog cartoon come out", "gold_answers": ["September 18, 1993"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00350", "question": "when did nigeria change from right to left driving", "gold_answers": ["1972"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00351", "question": "when is the army vs navy football game", "gold_answers": ["December 8, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00352", "question": "who is the secretary of state of new york", "gold_answers": ["Rossana Rosado"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00353", "question": "what was the last year for cadillac dts", "gold_answers": ["2011"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00354", "question": "who came up with the theory of social darwinism", "gold_answers": ["Herbert Spencer"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00355", "question": "which tool requires an underlying operating system in order to create and manage virtual machines", "gold_answers": ["hypervisor or Virtual Machine Manager"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00356", "question": "who played erica hahn on grey's anatomy", "gold_answers": ["Brooke Smith"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00357", "question": "how long is flight from dallas to sydney", "gold_answers": ["17 hours, 5 minutes"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00358", "question": "who conducted the first bcci recognised international 20-20 cricket tournament in india", "gold_answers": ["Zee Entertainment Enterprises"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00359", "question": "where are hogs and pigs raised in the world", "gold_answers": ["many countries"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00360", "question": "when did season 1 of supernatural come out", "gold_answers": ["September 13, 2005"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00361", "question": "where have the olympics been held in usa", "gold_answers": ["Squaw Valley", "Lake Placid", "St. Louis", "Atlanta", "Los Angeles", "Salt Lake City"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00362", "question": "who plays the devil in pick of destiny", "gold_answers": ["Dave Grohl"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00363", "question": "who has died out of the bee gees", "gold_answers": ["Maurice", "Robin"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00364", "question": "what county is santa rosa beach fl in", "gold_answers": ["Walton County"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00365", "question": "when did power rangers tv show come out", "gold_answers": ["August 28, 1993"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00366", "question": "when last did nigeria win the african nations cup", "gold_answers": ["2013"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00367", "question": "what kind of machine does a court reporter use", "gold_answers": ["stenotype"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00368", "question": "largest country in the world by land area", "gold_answers": ["Russia"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00369", "question": "who is the sister in my sister is among them", "gold_answers": ["Konoe Tsuruma"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00370", "question": "when was need for speed most wanted released", "gold_answers": ["2005"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00371", "question": "where do the aboriginal tribes live in australia", "gold_answers": ["New South Wales – 148,200", "Tasmania – 16,900", "Western Australia – 77,900", "South Australia – 26,000", "Queensland – 146,400", "Victoria – 30,800", "Northern Territory – 66,600", "Australian Capital Territory – 4,000"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00372", "question": "who plays mary's husband on little house", "gold_answers": ["Linwood Boomer"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00373", "question": "what was first tom sawyer or huck finn", "gold_answers": ["Tom Sawyer"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00374", "question": "who wants to be a millionaire first winner", "gold_answers": ["John Carpenter"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00375", "question": "where does the last name scott originate from", "gold_answers": ["Scottish"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00376", "question": "who is the nfl's all-time passing leader", "gold_answers": ["Drew Brees"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00377", "question": "name a city that has hosted winter olympics", "gold_answers": ["St. Moritz"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00378", "question": "what us the answer to life the universe and everything", "gold_answers": ["The number 42"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00379", "question": "when did china make the one child policy", "gold_answers": ["1979"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00380", "question": "which is the oldest tropical rainforest in the world", "gold_answers": ["Taman Negara"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00381", "question": "who sang wish upon a star in pinocchio", "gold_answers": ["Cliff Edwards"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00382", "question": "where does the last of us take place", "gold_answers": ["post-apocalyptic United States"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00383", "question": "when did the newest macbook air come out", "gold_answers": ["June 10, 2013"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00384", "question": "what is the name of president of america", "gold_answers": ["Donald Trump"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00385", "question": "who does george date in grey's anatomy", "gold_answers": ["Callie Torres", "Olivia Harper", "Meredith Grey"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00386", "question": "who does the voice of belle in beauty and the beast", "gold_answers": ["Donna Paige Helmintoller"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00387", "question": "what was atlanta named before the civil war", "gold_answers": ["Marthasville"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00388", "question": "where does graphite come from in the world", "gold_answers": ["North Korea", "United States", "India", "China", "Turkey", "Brazil"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00389", "question": "when did lynyrd skynyrd open for the who", "gold_answers": ["1973"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00390", "question": "when does hold the dark come out on netflix", "gold_answers": ["September 28, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00391", "question": "where do you go to get restraining orders", "gold_answers": ["a court"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00392", "question": "what are the 7 miracles in the gospel of john", "gold_answers": ["Healing the paralytic at Bethesda", "Jesus walking on water", "Feeding the 5000", "The raising of Lazarus"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00393", "question": "who plays nicky on make it or break it", "gold_answers": ["Cody Longo"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00394", "question": "who played miranda in picnic at hanging rock", "gold_answers": ["Anne-Louise Lambert"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00395", "question": "who is pyramid head in silent hill movie", "gold_answers": ["Roberto Campanella"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00396", "question": "where do you find red and yellow marrow", "gold_answers": ["bones"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00397", "question": "where was born on the fourth of july filmed", "gold_answers": ["Dallas, Texas", "the Philippines"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00398", "question": "when can you run with the bulls in spain", "gold_answers": ["6–14 July"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00399", "question": "where is the nobel peace prize center located", "gold_answers": ["Oslo, Norway"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00400", "question": "when will olaf's frozen adventure be on dvd", "gold_answers": ["December 7, 2017"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00401", "question": "what color is the line in jack on a computer", "gold_answers": ["Light blue", "Pink"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00402", "question": "who was jason's mom on growing pains", "gold_answers": ["Jane Powell as Irma Seaver"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00403", "question": "when did law & order special victims unit start", "gold_answers": ["September 20, 1999"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00404", "question": "which state in india has more crime rate", "gold_answers": ["Kerala"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00405", "question": "how many episodes in season 4 of mom", "gold_answers": ["22"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00406", "question": "who sings dont forget me when im gone", "gold_answers": ["Canadian rock band Glass Tiger"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00407", "question": "who is the highest selling girl group of all time", "gold_answers": ["Spice Girls"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00408", "question": "when did women get the right to vote in the us", "gold_answers": ["August 26, 1920"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00409", "question": "who plays david on once upon a time", "gold_answers": ["Joshua Paul Dallas"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00410", "question": "who played dumbledore in the goblet of fire", "gold_answers": ["Michael Gambon"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00411", "question": "what was the cat called in hong kong phooey", "gold_answers": ["Spot"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00412", "question": "who played ricky's mom on silver spoons", "gold_answers": ["Christine Belford"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00413", "question": "in the movie the terminator what is the name of the company that created skynet", "gold_answers": ["defense company Cyberdyne Systems"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00414", "question": "what kind of music is old crow medicine show", "gold_answers": ["folk", "bluegrass", "Americana", "Old-time", "alternative country"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00415", "question": "whos the girl in the radioactive music video", "gold_answers": ["Alexandra Anna Daddario"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00416", "question": "who plays scott on girlfriends guide to divorce", "gold_answers": ["Will Kemp"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00417", "question": "who sings you and tequila make me crazy", "gold_answers": ["Grace Potter", "Kenny Chesney"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00418", "question": "who is the chief justice of the united states 2017", "gold_answers": ["John Roberts"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00419", "question": "which country to host the 14th edition of united nations international day of vesak 2017", "gold_answers": ["Sri Lanka"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00420", "question": "who composed famous song sare jahan se acha", "gold_answers": ["Muhammad Iqbal"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00421", "question": "when did season 2 of the crown come out", "gold_answers": ["December 8, 2017"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00422", "question": "who was the first person voted out of survivor this season", "gold_answers": ["Stephanie Gonzalez"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00423", "question": "when did albums start coming out on friday", "gold_answers": ["10 July 2015"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00424", "question": "who wrote a journey to the center of the earth", "gold_answers": ["Jules Verne"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00425", "question": "when did the sisters of charity come to australia", "gold_answers": ["1838"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00426", "question": "who sings the song i am the warrior", "gold_answers": ["American rock band Scandal"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00427", "question": "when does the haves and the have nots come back on season 5", "gold_answers": ["January 3, 2017"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00428", "question": "who did oklahoma play in the bowl game last year", "gold_answers": ["Auburn"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00429", "question": "who played the little girl in to kill a mockingbird", "gold_answers": ["Mary Badham"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00430", "question": "what is the highest denomination of the us dollar", "gold_answers": ["$100"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00431", "question": "who is the longest running actor on the young and the restless", "gold_answers": ["Doug Davidson"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00432", "question": "who appoints the governor of state in india", "gold_answers": ["president"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00433", "question": "who was the book of james written for", "gold_answers": ["twelve tribes scattered abroad"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00434", "question": "how many local government are there in delta state nigeria", "gold_answers": ["25"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00435", "question": "who dies in the story of an hour", "gold_answers": ["Louise"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00436", "question": "where does the ribeye steak come from on the cow", "gold_answers": ["the rib section"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00437", "question": "when did opp by naughty by nature come out", "gold_answers": ["August 1991"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00438", "question": "who presided over the first meeting of indian constituent assembly", "gold_answers": ["Imperial Legislative Council"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00439", "question": "where is the eye of the hurricane located", "gold_answers": ["at the center"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00440", "question": "where are zebra mussels found in the united states", "gold_answers": ["Great Lakes", "Hudson River"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00441", "question": "what airline has its hub in charlotte nc", "gold_answers": ["American Airlines"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00442", "question": "who won the icc cricket world cup in 2015", "gold_answers": ["Australia"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00443", "question": "what event spurred the creation of the republican party", "gold_answers": ["the Kansas–Nebraska Act"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00444", "question": "where does the blood in the pulmonary artery go", "gold_answers": ["lungs"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00445", "question": "who plays nurse anderson in call the midwife", "gold_answers": ["Leonie Elliott"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00446", "question": "who has won the most trebles in scottish football", "gold_answers": ["Celtic"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00447", "question": "what is the name of the last episode of reba", "gold_answers": ["The Kids Are Alright"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00448", "question": "who was credited with the golden age of athens", "gold_answers": ["Pericles"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00449", "question": "who was the shortest reigning monarch of england", "gold_answers": ["Lady Jane Grey"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00450", "question": "where is panama canal located on the map", "gold_answers": ["the Isthmus of Panama"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00451", "question": "canada's national laboratory for particle and nuclear physics", "gold_answers": ["TRIUMF"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00452", "question": "who painted the inside of the florence dome", "gold_answers": ["Domenico Cresti", "Federico Zuccari", "Giorgio Vasari", "a number of collaborators"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00453", "question": "who has the most subscribers on youtube of all time", "gold_answers": ["PewDiePie"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00454", "question": "who is credited with coining the term sociobiology", "gold_answers": ["John Paul Scott"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00455", "question": "who makes my heart beat like thunder wiki", "gold_answers": ["Steve Harley", "Mickie Most", "Duncan Mackay"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00456", "question": "old guys in the balcony on the muppets", "gold_answers": ["Waldorf", "Statler"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00457", "question": "when did johnny cash write a boy named sue", "gold_answers": ["1969"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00458", "question": "who plays judith on 3rd rock from the sun", "gold_answers": ["Ileen Getz"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00459", "question": "when did the us join the allied powers", "gold_answers": ["December 1941"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00460", "question": "where are fruit of the loom t shirts made", "gold_answers": ["Honduras"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00461", "question": "where is the sandlot supposed to take place", "gold_answers": ["the San Fernando Valley"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00462", "question": "what are the three division of electronic warfare", "gold_answers": ["electronic attack (EA)", "electronic protection (EP)"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00463", "question": "who played guitar in bill and ted's excellent adventure", "gold_answers": ["Stevie Salas"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00464", "question": "who has the highest fg percentage in the nba", "gold_answers": ["DeAndre Jordan"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00465", "question": "who plays linda reagans brother on blue bloods", "gold_answers": ["Will Estes", "Donnie Wahlberg"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00466", "question": "who has the most running touchdowns in nfl history", "gold_answers": ["Emmitt Smith"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00467", "question": "what is the last movie eddie murphy made", "gold_answers": ["Mr. Church"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00468", "question": "what year did the first friends episode air", "gold_answers": ["1994"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00469", "question": "who voiced meg in the first season of family guy", "gold_answers": ["Lacey Chabert"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00470", "question": "when's the last time liverpool won the league", "gold_answers": ["1989–90"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00471", "question": "what does it mean to have conservative political views", "gold_answers": ["retaining traditional social institutions"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00472", "question": "when did the us get their independence from england", "gold_answers": ["July 4, 1776"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00473", "question": "what is my state if i live in london", "gold_answers": ["United Kingdom"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00474", "question": "what is the name of india nepal border", "gold_answers": ["Indo-Nepal"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00475", "question": "how many federal district court judges are there in the us", "gold_answers": ["874"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00476", "question": "where does the term full monty come from", "gold_answers": ["of uncertain origin"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00477", "question": "name the metals which are soluble only in aqua regia", "gold_answers": ["platinum", "gold"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00478", "question": "what kind of money is used in kuala lumpur", "gold_answers": ["Malaysian ringgit"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00479", "question": "when did the nintendo gameboy color come out", "gold_answers": ["October 21, 1998"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00480", "question": "who has given the concepts of ingroup and outgroup", "gold_answers": ["Henri Tajfel"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00481", "question": "when was the last time manchester city lost a game", "gold_answers": ["14 January 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00482", "question": "when does the second jurassic world come out", "gold_answers": ["June 22, 2018"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00483", "question": "what happened to the chicago world's fair buildings", "gold_answers": ["transformed back into parkland"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00484", "question": "how many times have real madrid won the champions league", "gold_answers": ["12 times"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00485", "question": "where is lalit kala academy rabindra bhavan situated", "gold_answers": ["Ferozshah Road, New Delhi"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00486", "question": "which film did julia roberts win best actress oscar", "gold_answers": ["Erin Brockovich"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00487", "question": "when did the first spongebob episode come out", "gold_answers": ["May 1, 1999"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00488", "question": "number of odi wins for dhoni as captain", "gold_answers": ["110"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00489", "question": "when was breath of the wild first announced", "gold_answers": ["2015"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00490", "question": "who empowered to establish inter state council under article 263", "gold_answers": ["Presidential Order"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00491", "question": "who ate the cheese in diary of a wimpy kid", "gold_answers": ["Rowley"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00492", "question": "corn beans and squash the three most important crops of the wampanoag were also known as", "gold_answers": ["three sisters"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00493", "question": "who did leon play in the five heartbeats", "gold_answers": ["J.T. Matthews"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00494", "question": "when does the first baseball game start 2018", "gold_answers": ["March 29"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00495", "question": "who's being inducted into the pro football hall of fame this year", "gold_answers": ["Bobby Beathard", "Robert  Brazile", "Brian  Dawkins", "Jerry  Kramer", "Randy  Moss", "Brian  Urlacher", "Terrell Owens", "Ray  Lewis"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00496", "question": "when was the term mental illness first used", "gold_answers": ["the early 20th century"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00497", "question": "who wrote the song i've got friends in low places", "gold_answers": ["Dewayne Blackwell", "Earl Bud Lee"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00498", "question": "who is telling the story in twas the night before christmas", "gold_answers": ["The father"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00499", "question": "inclusion bodies formation of syncytia and change in cell shape are examples of", "gold_answers": ["Cytopathic effect"], "source_dataset": "nq_open", "split": "train", "seed": 42}
+{"id": "q00500", "question": "who plays the guidance counselor in the goldbergs", "gold_answers": ["Tim Meadows"], "source_dataset": "nq_open", "split": "train", "seed": 42}
