@@ -27,5 +27,10 @@ Das Repository dient der Nachvollziehbarkeit des experimentellen Setups, der Dur
 ## Hinweise
 Große Modelldateien sowie einzelne große Korpusdateien sind aus technischen Gründen nicht im Repository enthalten.
 
+## Reproduzierbarkeit
+Der für die Abgabe relevante Projektstand wird über den Git-Commit-Hash eindeutig versioniert. Das Repository dient der technischen Nachvollziehbarkeit des experimentellen Setups, der Auswertungsschritte und der Ergebnisgenerierung. Nicht im Repository enthaltene große Dateien, insbesondere Modelldateien und umfangreiche Korpusdateien, müssen für eine vollständige Reproduktion separat lokal bereitgestellt werden.
+
+Die im Experiment verwendete Modelldatei ist ebenfalls nicht Bestandteil des Repositorys. Für die Reproduktion muss das verwendete Modell (https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/blob/main/Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf) lokal separat bereitgestellt und im vorgesehenen Verzeichnis abgelegt werden. Dokumentiert sind der verwendete Modelltyp, das Dateiformat und die Konfiguration des Experiments, nicht jedoch die Binärdatei selbst.
+
 ## Autor
 Sebastian Weindl
