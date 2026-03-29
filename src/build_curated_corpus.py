@@ -31,7 +31,7 @@ def build_statement(question: str, gold_answers: list[str]) -> str:
     gold = clean_text(gold_answers[0]) if gold_answers else ""
     q_lower = q.lower()
 
-
+    # weniger tautologische, etwas natürlichere Evidenzsätze
     patterns = [
         (r"^who was the first person to (.+)$",
          lambda m: f"{gold} is historically associated with being the first person to {m.group(1)}."),

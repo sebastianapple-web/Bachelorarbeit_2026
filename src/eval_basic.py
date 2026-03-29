@@ -64,7 +64,8 @@ def gold_match(answer: str, gold_answers: List[str]) -> bool:
         if a in g2 or g2 in a:
             return True
 
-      
+        # Token-basierter Match für Antworten wie:
+        # "the ilium, ischium and pubis meet at the acetabulum"
         # vs. gold = "acetabulum"
         a_tokens = set(a.split())
         g_tokens = set(g2.split())

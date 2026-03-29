@@ -7,8 +7,8 @@ from tqdm import tqdm
 OUT_PATH = Path("corpus/passages.jsonl")
 OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
-
-
+# None = kompletter Korpus
+# z.B. 100_000 / 500_000 / 1_000_000 für begrenzte Läufe
 MAX_PASSAGES = 200000
 
 

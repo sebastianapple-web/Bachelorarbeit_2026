@@ -221,7 +221,7 @@ def normalize_parsed_output(obj: Optional[Dict[str, Any]]) -> Dict[str, Any]:
     except Exception:
         confidence = 0.0
 
-
+    # Nur bei echter Abstention den Text vereinheitlichen
     if abstain:
         answer = "I don't know"
 

@@ -13,9 +13,9 @@ import numpy as np
 from matplotlib.ticker import FuncFormatter
 
 
-
-# Farben
-
+# -----------------------------
+# Farben / Stil (Variante C)
+# -----------------------------
 BLUE = "#355C7D"       # ohne RAG
 ORANGE = "#C06C2B"     # mit RAG
 GRAY = "#9A9A9A"       # neutrale dritte Größe
@@ -72,12 +72,12 @@ def ensure_dir(path: Path) -> None:
     path.mkdir(parents=True, exist_ok=True)
 
 
-
+# -----------------------------
 # Datenmodell
-
+# -----------------------------
 @dataclass
 class Row:
-    rag: str  
+    rag: str  # "ohne RAG" oder "mit RAG"
     temp: float
     answer_rate: float
     error_given_answer: float
@@ -172,9 +172,9 @@ def split_series(rows: List[Row]) -> Dict[str, List[Row]]:
     return series
 
 
-
+# -----------------------------
 # Achsen / Hilfen
-
+# -----------------------------
 def apply_percent_yaxis(ax, ymin: float | None = None, ymax: float | None = None) -> None:
     if ymin is not None or ymax is not None:
         lo, hi = ax.get_ylim()
@@ -210,9 +210,9 @@ def finalize_figure(fig, out_path: Path, top: float = 0.86) -> None:
     plt.close(fig)
 
 
-
+# -----------------------------
 # Plot 1: Halluzinationsrate
-
+# -----------------------------
 def plot_hallucination_rate(series: Dict[str, List[Row]], outdir: Path) -> None:
     fig, ax = plt.subplots(figsize=FIG_STD)
 
@@ -231,9 +231,9 @@ def plot_hallucination_rate(series: Dict[str, List[Row]], outdir: Path) -> None:
     finalize_figure(fig, outdir / "01_halluzinationsrate_nach_temperatur.png")
 
 
-
+# -----------------------------
 # Plot 2: Enthaltungsrate
-
+# -----------------------------
 def plot_abstention_rate(series: Dict[str, List[Row]], outdir: Path) -> None:
     fig, ax = plt.subplots(figsize=FIG_STD)
 
@@ -252,9 +252,9 @@ def plot_abstention_rate(series: Dict[str, List[Row]], outdir: Path) -> None:
     finalize_figure(fig, outdir / "02_enthaltungsrate_nach_temperatur.png")
 
 
-
+# -----------------------------
 # Plot 3: Interaktion RAG x Temperatur
-
+# -----------------------------
 def plot_rag_interaction(series: Dict[str, List[Row]], outdir: Path) -> None:
     temps = [r.temp for r in series["ohne RAG"]]
     no = {r.temp: r for r in series["ohne RAG"]}
@@ -281,9 +281,9 @@ def plot_rag_interaction(series: Dict[str, List[Row]], outdir: Path) -> None:
     finalize_figure(fig, outdir / "03_interaktion_rag_temperatur.png")
 
 
-
+# -----------------------------
 # Plot 4a: Antwortverteilung als 3-Panel-Linienplot
-
+# -----------------------------
 def plot_response_distribution_stacked(series: Dict[str, List[Row]], outdir: Path) -> None:
     temps = [r.temp for r in series["ohne RAG"]]
     no = {r.temp: r for r in series["ohne RAG"]}
@@ -318,9 +318,9 @@ def plot_response_distribution_stacked(series: Dict[str, List[Row]], outdir: Pat
     finalize_figure(fig, outdir / "04a_antwortverteilung_gestapelt.png", top=0.84)
 
 
-
+# -----------------------------
 # Plot 4b: Gruppierte Antwortverteilung
-
+# -----------------------------
 def plot_response_distribution_grouped(series: Dict[str, List[Row]], outdir: Path) -> None:
     temps = [r.temp for r in series["ohne RAG"]]
     x = np.arange(len(temps))
@@ -352,9 +352,9 @@ def plot_response_distribution_grouped(series: Dict[str, List[Row]], outdir: Pat
     finalize_figure(fig, outdir / "04b_antwortverteilung_gruppiert.png", top=0.82)
 
 
-
+# -----------------------------
 # Plot 5: Trade-off
-
+# -----------------------------
 def plot_tradeoff(series: Dict[str, List[Row]], outdir: Path) -> None:
     fig, ax = plt.subplots(figsize=FIG_STD)
 
@@ -383,9 +383,9 @@ def plot_tradeoff(series: Dict[str, List[Row]], outdir: Path) -> None:
     finalize_figure(fig, outdir / "05_tradeoff_korrekt_vs_antwortquote.png")
 
 
-
+# -----------------------------
 # Plot 6: Dumbbell fuer Halluzinationsrate
-
+# -----------------------------
 def plot_dumbbell_hallucination(series: Dict[str, List[Row]], outdir: Path) -> None:
     temps = [r.temp for r in series["ohne RAG"]]
     no = {r.temp: r for r in series["ohne RAG"]}
@@ -428,9 +428,9 @@ def plot_dumbbell_hallucination(series: Dict[str, List[Row]], outdir: Path) -> N
     finalize_figure(fig, outdir / "06_dumbbell_halluzinationsrate.png")
 
 
-
+# -----------------------------
 # Plot 7: Heatmap optional
-
+# -----------------------------
 def plot_heatmap_hallucination(series: Dict[str, List[Row]], outdir: Path) -> None:
     temps = [r.temp for r in series["ohne RAG"]]
     matrix = np.array(
@@ -470,9 +470,9 @@ def plot_heatmap_hallucination(series: Dict[str, List[Row]], outdir: Path) -> No
     finalize_figure(fig, outdir / "07_heatmap_halluzinationsrate.png", top=0.96)
 
 
-
+# -----------------------------
 # Plot 8: Intrinsische vs. extrinsische Halluzinationen
-
+# -----------------------------
 def plot_hallucination_types(series: Dict[str, List[Row]], outdir: Path) -> None:
     temps = [r.temp for r in series["ohne RAG"]]
     no = {r.temp: r for r in series["ohne RAG"]}
@@ -498,9 +498,9 @@ def plot_hallucination_types(series: Dict[str, List[Row]], outdir: Path) -> None
     finalize_figure(fig, outdir / "08_intrinsisch_extrinsisch_nach_temperatur.png", top=0.84)
 
 
-
+# -----------------------------
 # Plot 9: Korrekte vs. unnoetige Enthaltung
-
+# -----------------------------
 def plot_abstention_quality(series: Dict[str, List[Row]], outdir: Path) -> None:
     temps = [r.temp for r in series["ohne RAG"]]
     x = np.arange(len(temps))
@@ -527,9 +527,9 @@ def plot_abstention_quality(series: Dict[str, List[Row]], outdir: Path) -> None:
     finalize_figure(fig, outdir / "09_korrekte_vs_unnoetige_enthaltung.png", top=0.84)
 
 
-
+# -----------------------------
 # Plot 10: Korrekte Antworten
-
+# -----------------------------
 def plot_correct_answers(series: Dict[str, List[Row]], outdir: Path) -> None:
     fig, ax = plt.subplots(figsize=FIG_STD)
 
@@ -548,9 +548,9 @@ def plot_correct_answers(series: Dict[str, List[Row]], outdir: Path) -> None:
     finalize_figure(fig, outdir / "10_korrekte_antworten_nach_temperatur.png")
 
 
-
+# -----------------------------
 # Plot 11: Relative Halluzinationsreduktion durch RAG
-
+# -----------------------------
 def plot_relative_rag_improvement(series: Dict[str, List[Row]], outdir: Path) -> None:
     temps = [r.temp for r in series["ohne RAG"]]
     no = {r.temp: r for r in series["ohne RAG"]}
@@ -614,9 +614,9 @@ def plot_relative_rag_improvement(series: Dict[str, List[Row]], outdir: Path) ->
     finalize_figure(fig, outdir / "11_relative_rag_verbesserung.png", top=0.90)
 
 
-
+# -----------------------------
 # Plot 12: Genauigkeit unter beantworteten Fragen
-
+# -----------------------------
 def plot_accuracy_answered_only(series: Dict[str, List[Row]], outdir: Path) -> None:
     fig, ax = plt.subplots(figsize=FIG_STD)
 
@@ -635,9 +635,9 @@ def plot_accuracy_answered_only(series: Dict[str, List[Row]], outdir: Path) -> N
     finalize_figure(fig, outdir / "12_genauigkeit_unter_beantworteten_fragen.png")
 
 
-
-# Summary CSV
-
+# -----------------------------
+# Summary CSV fuer den Textteil
+# -----------------------------
 def write_summary_csv(series: Dict[str, List[Row]], outdir: Path) -> None:
     out_path = outdir / "plot_summary_table.csv"
     with out_path.open("w", encoding="utf-8", newline="") as f:
@@ -680,9 +680,9 @@ def write_summary_csv(series: Dict[str, List[Row]], outdir: Path) -> None:
                 )
 
 
-
+# -----------------------------
 # Hauptfunktion
-
+# -----------------------------
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Erzeuge wissenschaftlich saubere Plots fuer Temperatur x RAG."
